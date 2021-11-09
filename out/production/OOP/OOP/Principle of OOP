@@ -1,0 +1,15 @@
+1. Inheritance :
+Inheriting the properties of existing class
+2. Encapsulation:
+Hiding the details
+Possible through the access modifiers
+(Private,Default,protected, and public)
+Example: When we hit brake car should stop regardless of
+any internal functionality being known to us
+3.Polymorphism:
+single interface can have multiple implementation
+Eg. Wheel exist on every vehicles but the way they function can be different
+Method over riding
+4. Abstraction
+Specific property that separates the objects.
+
